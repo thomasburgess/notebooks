@@ -6,3 +6,4 @@ This repository is to store some of my [jupyter](https://jupyter.org/) notebooks
 * **Recommendation Engine** is based on [A Programmer's Guide to Data Mining](http://guidetodatamining.com/)
 * **Kaggle Titanic** is a kaggle submission based on a [dataquest](dataquest.io) excercise
 * **Titanic v3** is version 3 using [XGBoost](https://xgboost.readthedocs.io/en/latest/) also available on [Kaggle](https://www.kaggle.com/nxpnsv/titanic-v3#)
+* **Chinook** Fake music sales analysis based on a [dataquest](dataquest.io) excercise
