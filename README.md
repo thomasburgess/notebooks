@@ -7,3 +7,6 @@ This repository is to store some of my [jupyter](https://jupyter.org/) notebooks
 * **Kaggle Titanic** is a kaggle submission based on a [dataquest](dataquest.io) excercise
 * **Titanic v3** is version 3 using [XGBoost](https://xgboost.readthedocs.io/en/latest/) also available on [Kaggle](https://www.kaggle.com/nxpnsv/titanic-v3#)
 * **Chinook** Fake music sales analysis based on a [dataquest](dataquest.io) excercise
+* **Jacardi** Testing jaccardi similarity to cluster strings
+* **One Hot Wonder** Testing different one hot encoders
+* **Noisy Flower** Generate a flower graph, add, noise, implement smoother
