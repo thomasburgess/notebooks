@@ -10,3 +10,4 @@ This repository is to store some of my [jupyter](https://jupyter.org/) notebooks
 * **Jacardi** Testing jaccardi similarity to cluster strings
 * **One Hot Wonder** Testing different one hot encoders
 * **Noisy Flower** Generate a flower graph, add, noise, implement smoother
+* **RockNDeath** Study of artist deaths
